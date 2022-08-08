@@ -8,6 +8,6 @@ INTEGRANTES:
 
 ->William Ruiz Champi Puma           154632
 
-
+![git](https://user-images.githubusercontent.com/106675975/183335962-326e6d1a-158b-41e7-a57b-f35857b3d641.png)
 
 
