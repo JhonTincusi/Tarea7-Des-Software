@@ -105,7 +105,7 @@ class Funciones{
         }
         return $AlumnoXDocente;
         
-    }
+    } 
 
 
     function Balancear($DistribucionDocenteAlumno,$AlumnosSinTutor)

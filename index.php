@@ -208,7 +208,7 @@
                                 <th>Docente a Cargo</th>
                                 <th>Codigo</th>
                                 <th>Nombre</th>
-                                 <!--<th>Estado</th>-->
+                                 <!--<th>Estado</th>--> 
                             </tr>
                             </thead>
                             <tbody>
